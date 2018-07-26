@@ -22,3 +22,5 @@ https://github.com/Und3rf10w/external_c2_framework
 https://github.com/Mr-Un1k0d3r/PowerLessShell
 
 https://github.com/codewhitesec/LethalHTA/
+
+https://github.com/tevora-threat/PowerView3-Aggressor
